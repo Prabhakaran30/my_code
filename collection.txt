@@ -1,0 +1,71 @@
+How many java packages?
+user defined
+   -In java, we already have various pre-defined packages and these packages contain large numbers of classes and interfaces that we
+ used in java are known as Built-in packages.
+build-in packages
+   -As the name suggests user-defined packages are a package 
+that is defined by the user or programmer.
+ex:lang, io, util, SQL, etc
+
+jawa.awt?
+  -This package is the main package of the abstract window kit. 
+  -it includes the classes for graphics, 
+containing the java 2D graphics and 
+it also defines the graphical user interface(GUI) framework for java.
+ this package had several heavy GUI objects which come under java. swing package
+
+Import explanation?
+ -import is a Java keyword. It declares a Java class to use in the code below the import statement.
+ Once a Java class is declared, then the class name can be used in the code 
+without specifying the package the class belongs to. 
+-Use the '*' character to declare all the classes belonging to the package.
+
+package defenition?
+
+ -A package is a namespace that organizes a set of related classes and interfaces.
+  -A package is simply a container that groups related types (Java classes, interfaces, enumerations, and annotations).
+
+
+ What is array list?
+  -ava ArrayList class uses a dynamic array for storing the elements.
+ It is like an array, but there is no size limit.
+ We can add or remove elements anytime. So, it is much more flexible than the traditional array.
+
+Java ArrayList class can contain duplicate elements.
+Java ArrayList class maintains insertion order.
+Java ArrayList class is non synchronized.
+Java ArrayList allows random access because the array works on an index basis.
+
+Linked List?
+ -Java LinkedList class can contain duplicate elements.
+Java LinkedList class maintains insertion order.
+Java LinkedList class is non synchronized.
+In Java LinkedList class, manipulation is fast because no shifting needs to occur.
+Java LinkedList class can be used as a list, stack or queue.
+
+Diff between linked list nd array list?
+
+1
+Internal Implementation
+ArrayList =internally uses a dynamic array to store its elements.
+LinkedList =uses Doubly Linked List to store its elements.
+2
+Manipulation
+ArrayList= is slow as array manipulation is slower.
+LinkedList= is faster being node based as not much bit shifting required.
+3
+Implementation
+ArrayList =implements only List.
+LinkedList =implements List as well as Queue. It can acts as a queue as well.
+4
+Access
+ArrayList =is faster in storing and accessing data.
+LinkedList =is faster in manipulation of data.
+
+
+object casting?
+ -Objects of a class can be cast into objects of another class 
+if both classes are related to each other through the property of inheritance
+ -one class is the parent class, and the other class is the child class. 
+This type of casting superclass object (parent class) will hold the sub-class object's properties.
+ 
