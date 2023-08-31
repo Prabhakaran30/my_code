@@ -63,7 +63,7 @@ ArrayList =is faster in storing and accessing data.
 LinkedList =is faster in manipulation of data.
 
 
-object casting?
+what is object casting?
  -Objects of a class can be cast into objects of another class 
 if both classes are related to each other through the property of inheritance
  -one class is the parent class, and the other class is the child class. 
