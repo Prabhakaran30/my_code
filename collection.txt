@@ -69,3 +69,5 @@ if both classes are related to each other through the property of inheritance
  -one class is the parent class, and the other class is the child class. 
 This type of casting superclass object (parent class) will hold the sub-class object's properties.
  
+What is string?
+string is a sequence of characters
